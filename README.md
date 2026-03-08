@@ -1,129 +1,42 @@
-# 👋 Hola, soy Joaquín Muñoz
+# Hola 👋 Soy Joaquín Muñoz
 
-🎓 Estudiante de Ingeniería en Sistemas  
-📍 Argentina  
-💻 Backend Developer | Python | Arquitectura de Software  
+Estudiante de Ingeniería en Sistemas en UTN (5° año) interesado en desarrollo backend, arquitectura de software y sistemas basados en datos.
 
-Me interesa diseñar y construir **sistemas backend bien estructurados**, con foco en:
+Actualmente trabajo principalmente con:
 
-- buen modelado de dominio
-- arquitectura clara
-- código mantenible
-- sistemas escalables
+Python · FastAPI · Django  
+SQL · PostgreSQL  
+Docker · APIs REST  
 
-Actualmente estoy profundizando en:
+Me interesa construir sistemas con buen diseño, separación de responsabilidades y arquitectura clara.
 
-- arquitectura de software
-- diseño de APIs
-- sistemas distribuidos
-- data e inteligencia artificial
+En mis proyectos suelo trabajar con:
 
----
+- desarrollo de APIs backend
+- modelado de datos
+- autenticación y control de acceso
+- despliegue de aplicaciones web
+- testing y CI/CD
 
-# 🚀 Proyectos destacados
+Algunos de mis proyectos incluyen aplicaciones web completas con frontend, backend y base de datos, desplegadas en producción.
 
-## 🛒 Ecommerce Backend
-Sistema backend para gestión de un ecommerce.
-
-🔗 Repo  
-https://github.com/JoacoM2003/ecommerce
-
-**Características**
-
-- API para gestión de productos
-- manejo de usuarios
-- estructura modular
-- separación de responsabilidades entre capas
-
-**Stack**
-
-- Python
-- APIs REST
-- SQL
-- Docker
+📌 Proyectos destacados en mis repositorios fijados.
 
 ---
 
-## 🎓 Gestor de alumnos
-Sistema para administrar estudiantes, materias y gestión académica.
-
-🔗 Repo  
-https://github.com/JoacoM2003/gestorAlum
-
-**Funcionalidades**
-
-- gestión de alumnos
-- materias y comisiones
-- registro de inscripciones
-- manejo de notas
-
-**Stack**
-
-- Python
-- Django
-- Bootstrap
-- SQL
-
----
-
-## 🏟 Sistema de turnos
-Aplicación para gestión de reservas de turnos.
-
-🔗 Repo  
-https://github.com/JoacoM2003/turnero
-
-**Funcionalidades**
-
-- gestión de usuarios
-- reservas de turnos
-- control de disponibilidad
-- lógica de negocio desacoplada
-
-**Stack**
-
-- Python
-- APIs REST
-- arquitectura modular
-
----
-
-# Intereses técnicos
-
-Me interesa trabajar en problemas relacionados con:
-
-- desarrollo backend
-- arquitectura de software
-- sistemas escalables
-- análisis de datos
-- inteligencia artificial
-
----
-
-# 🛠 Tecnologías
-
-**Lenguajes**
+### Tecnologías
 
 Python  
-SQL  
-
-**Frameworks**
-
+FastAPI  
 Django  
-Flask  
-
-**Data**
-
-Pandas  
-NumPy  
-
-**Herramientas**
-
+React  
+PostgreSQL  
 Docker  
-Git  
+Pandas / NumPy  
 
 ---
 
-# 📫 Contacto
+### Contacto
 
 LinkedIn  
-Email
+Portfolio
